@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **betul.anacoglu@gmail.com**
 
-- ⚡ Fun fact **I'm funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bet%c3%bcl-ana%c3%a7o%c4%9flu-aa3a5b222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bet%c3%bcl-ana%c3%a7o%c4%9flu-aa3a5b222/" height="30" width="40" /></a>
